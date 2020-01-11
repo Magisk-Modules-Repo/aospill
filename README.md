@@ -1,6 +1,6 @@
-# AOSP Pill for Oxygen OS
+# AOSP Gesture Bar for Oxygen OS
 
-Simple module to give Oxygen OS 10 users the AOSP Pill (in case you're not a fan of the wide pill that Oneplus uses)
+Simple module to give Oxygen OS 10 users the AOSP Gesture Bar (in case you're not a fan of the wide pill that Oneplus uses)
 
 ## Requirements
 - Android 10 only
