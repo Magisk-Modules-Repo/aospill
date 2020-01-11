@@ -7,10 +7,10 @@ This module will change the Oxygen OS 10 large gesture bar (when using the andro
 - Magisk 19+
 
 Before
-![](https://i.imgur.com/a/WceAkzW)
+![](https://i.imgur.com/a/WceAkzW.png)
 
 After
-![](https://i.imgur.com/a/zb9xX8z)
+![](https://i.imgur.com/a/zb9xX8z.png)
 
 
 
