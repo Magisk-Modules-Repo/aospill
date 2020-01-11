@@ -1,6 +1,6 @@
 # AOSP Gesture Bar for Oxygen OS
 
-Simple module to give Oxygen OS 10 users the AOSP Gesture Bar (in case you're not a fan of the wide pill that Oneplus uses)
+This module will change the Oxygen OS 10 large gesture bar (when using the android 10 gestures) to the smaller AOSP one (in case you're not a fan of the large bar that Oneplus uses)
 
 ## Requirements
 - Android 10 only
