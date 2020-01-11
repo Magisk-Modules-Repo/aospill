@@ -6,6 +6,16 @@ This module will change the Oxygen OS 10 large gesture bar (when using the andro
 - Android 10 only
 - Magisk 19+
 
+Before
+![](https://imgur.com/a/WceAkzW)
+
+After
+![](https://imgur.com/a/zb9xX8z)
+
+
+
+
+
 ## Installation
 1. Flash this module.
 2. Reboot.
