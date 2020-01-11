@@ -23,7 +23,7 @@ After
 
 ## Links
 - [Telegram](https://t.me/DanGLES3)
-- [Telegram](https://github.com/Magisk-Modules-Repo/aospill)
+- [Github](https://github.com/Magisk-Modules-Repo/aospill)
 
 
 ## Changelog
