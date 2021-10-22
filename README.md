@@ -34,7 +34,8 @@ After:
  After a long time here's the second update to this module
 - Switch to MMT-Ex
 - Now uses more appropriate height and color values to better match AOSP on OOS 
-- Allows you to disable the navigation bar animations of OOS 
+- Allows you to disable the navigation bar animations of OOS
+-  
  A thank you to [Paphonb](https://github.com/paphonb) for helping with these 2 last improvements 
 ### v1.0
 - Initial release
