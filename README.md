@@ -1,10 +1,10 @@
 # AOSP Gesture Bar for Oxygen OS
 
-This module will change the Oxygen OS 10 large gesture bar (when using the android 10 gestures) to the smaller AOSP one (in case you're not a fan of the large bar that Oneplus uses)
+This module will change the Oxygen OS 10-11 gesture bar (when using gestures) to the smaller AOSP one (for those who may prefer it)
 
 ## Requirements
-- Android 10 only
-- Magisk 19+
+- Android 10-11
+- Magisk 20+
 
 Before:
 ![](https://i.imgur.com/vd1i2tW.png)
@@ -22,10 +22,18 @@ After:
 3. Enjoy!
 
 ## Links
-- [Telegram](https://t.me/DanGLES3)
+- [Telegram](https://t.me/PannekoX)
 - [Github](https://github.com/Magisk-Modules-Repo/aospill)
+
+## Special Thanks
+- [Paphonb](https://github.com/paphonb) for providing more appropriate values for OOS
 
 
 ## Changelog
+### v2.0
+ After a long time here's the second update to this module
+- Switch to MMT-Ex
+- Now uses more appropriate height and color values to better match AOSP on OOS
+- Allows you to disable the navigation bar animations of OOS thx to [Paphonb](https://github.com/paphonb)
 ### v1.0
 - Initial release
