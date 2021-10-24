@@ -4,7 +4,7 @@
 
 mkdir "$MODPATH"/system
 mkdir "$MODPATH"/system/product
-mkdir "MODPATH"/system/product/overlay
+mkdir "$MODPATH"/system/product/overlay
 
 ui_print "   ----- AOSP Gesture Bar for OOS 10-11 ------"
 ui_print " "
