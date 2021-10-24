@@ -2,6 +2,10 @@
 # Custom Logic
 ##########################################################################################
 
+mkdir "$MODPATH"/system
+mkdir "$MODPATH"/system/product
+mkdir "MODPATH"/system/product/overlay
+
 ui_print "   ----- AOSP Gesture Bar for OOS 10-11 ------"
 ui_print " "
 ui_print "   Choose your gesture bar   "
